@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hello! I'm Mazyad Alrashidi
+# 👋 Hello! I'm MazyadAi
 
 ### AI Evaluator · Prompt Engineer · Red Teamer · ML Practitioner
 
